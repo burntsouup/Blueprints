@@ -4,4 +4,12 @@
 
 > View iterations [here]()
 
-![blueprints #0]()
+![sample1](https://github.com/burntsouup/Blueprints/blob/ecf9511b3f3f4a98bc5b07c310c294f9aa4250ff/bp2.png)
+
+![sample2](https://github.com/burntsouup/Blueprints/blob/ecf9511b3f3f4a98bc5b07c310c294f9aa4250ff/bp5.png)
+
+![sample3](https://github.com/burntsouup/Blueprints/blob/ecf9511b3f3f4a98bc5b07c310c294f9aa4250ff/bp7.png)
+
+![sample4](https://github.com/burntsouup/Blueprints/blob/ecf9511b3f3f4a98bc5b07c310c294f9aa4250ff/bp8.png)
+
+
